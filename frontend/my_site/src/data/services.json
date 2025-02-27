@@ -1,0 +1,36 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "nom": "Site Vitrine Essentiel",
+        "prix": 300,
+        "description": "Un site vitrine d'une page avec des sections personnalisables pour présenter votre activité.",
+        "inclus": [
+          "Site one-page avec sections personnalisées (Accueil, Services, Contact, etc.)",
+          "Design moderne et responsive",
+          "Intégration des réseaux sociaux"
+        ],
+        "options": [
+          "Ajout de sections supplémentaires (+50€ par section)"
+        ],
+        "delai_livraison": "5 à 7 jours"
+      },
+      {
+        "id": 2,
+        "nom": "Site Vitrine Interactif",
+        "prix": 350,
+        "description": "Un site vitrine d'une page avec un formulaire de contact pour interagir avec vos clients.",
+        "inclus": [
+          "Site one-page avec sections personnalisées (Accueil, Services, Contact, etc.)",
+          "Design moderne et responsive",
+          "Intégration des réseaux sociaux",
+          "Formulaire de contact avec notifications par e-mail"
+        ],
+        "options": [
+          "Ajout de sections supplémentaires (+50€ par section)"
+        ],
+        "delai_livraison": "7 à 10 jours"
+      }
+    ]
+  }
+  
